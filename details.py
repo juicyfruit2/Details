@@ -1,0 +1,10 @@
+name = input("what is your name?:")
+print(name)
+age = input("What is your age?:")
+print(age)
+number = input("what is your house number?:")
+print(number)
+street_name = input(" What is your Street Name?:")
+print(name)
+
+print("This is {} he is {} years old and lives at house number {} {} street.".format(name,age,number,street_name))
